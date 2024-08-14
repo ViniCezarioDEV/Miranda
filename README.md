@@ -5,32 +5,32 @@ a Miranda a principio funciona como a SIRI da Apple, diga Miranda espere o beep,
 
 COMANDOS_DA_MIRANDA
 
-pesquise/pesquisar -> pesquisa no google (navegador padrão)
-horas -> fala que horas são
-dia -> fala que dia é
-pausar -> pausa músicas e vídeos
-play -> da play em músicas e vídeos
-próxima -> passa para a próxima música ou vídeo
-anterior -> reproduz a música ou vídeo anterior
-novamente -> reproduz a música ou vídeo novamente
-tocar/toque/toca -> reproduz no youtube (navegador padrão) um vídeo desejado
-notas -> abre o bloco de notas
-calculadora -> abre a calculadora
-google -> abre o navegador padrão
-youtube -> abre o youtube (navegador padrão)
-tarefas -> abre o gerenciador de tarefas
-word -> abre o Microsoft word (se baixado)
-excel -> abre o Microsoft excel (se baixado)
-configurações -> abre as configurações do windows 10/11
-lupa/zoom -> abre a lupa e da zoom de 100%
-print -> abre a ferramenta de captura
-minimizar -> minimiza todas as telas
-feche/fechar -> fecha a tela (tela atual)
-wiki -> da um resumo da wikipedia de um assunto desejado
-piada -> conta uma piada
-clima/temperatura -> fala o clima (configurar o codigo)
-criou -> fala quem criou a miranda
-conselho -> fala um conselho aleatorio
-obrigado/retire/retirar -> fecha a miranda encerra o codigo
-desligar/desligue -> desliga o computador
-reinicie/reiniciar -> reinicia o computador
+pesquise/pesquisar -> pesquisa no google (navegador padrão) <br>
+horas -> fala que horas são<br>
+dia -> fala que dia é<br>
+pausar -> pausa músicas e vídeos<br>
+play -> da play em músicas e vídeos<br>
+próxima -> passa para a próxima música ou vídeo<br>
+anterior -> reproduz a música ou vídeo anterior<br>
+novamente -> reproduz a música ou vídeo novamente<br>
+tocar/toque/toca -> reproduz no youtube (navegador padrão) um vídeo desejado<br>
+notas -> abre o bloco de notas<br>
+calculadora -> abre a calculadora<br>
+google -> abre o navegador padrão<br>
+youtube -> abre o youtube (navegador padrão)<br>
+tarefas -> abre o gerenciador de tarefas<br>
+word -> abre o Microsoft word (se baixado)<br>
+excel -> abre o Microsoft excel (se baixado)<br>
+configurações -> abre as configurações do windows 10/11<br>
+lupa/zoom -> abre a lupa e da zoom de 100%<br>
+print -> abre a ferramenta de captura<br>
+minimizar -> minimiza todas as telas<br>
+feche/fechar -> fecha a tela (tela atual)<br>
+wiki -> da um resumo da wikipedia de um assunto desejado<br>
+piada -> conta uma piada<br>
+clima/temperatura -> fala o clima (configurar o codigo)<br>
+criou -> fala quem criou a miranda<br>
+conselho -> fala um conselho aleatorio<br>
+obrigado/retire/retirar -> fecha a miranda encerra o codigo<br>
+desligar/desligue -> desliga o computador<br>
+reinicie/reiniciar -> reinicia o computador<br>
